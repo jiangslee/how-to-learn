@@ -1,4 +1,4 @@
-# how-to-learn
+# how-to-learn-vue
 > 移动WebApp开发学习曲线
 
 
